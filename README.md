@@ -1,15 +1,17 @@
-# Physec / Prosec Webapplikation
+# ProSec / PhySec Webapplikation
 
 Dies ist das Installationspaket für die beiden Webapplikationen Physec und Prosec, etwickelt von der Forschung Burgenland
 GmbH. Beide Projekte können mit dem selben Installationspaket eingerichtet werden.
 
-## Physec
-
-m PhySec-Projekt wurden innovative Ansätze entwickelt, um den wachsenden Bedrohungen durch Cyberangriffe für kleine und mittlere Unternehmen (KMU) zu begegnen. Der Schwerpunkt lag auf der Verbesserung der Cyber- und IT-Sicherheit durch den Einsatz moderner Technologien und die Anpassung an die digitale Landschaft. Eine umfassende webbasierte Plattform wurde entwickelt, um KMU praxisnahe Einblicke und wichtige Werkzeuge zum Schutz ihrer digitalen Ressourcen zu bieten. Im Laufe des Projekts wurden die Sicherheitsbedürfnisse kontinuierlich analysiert und praxisnahe Lösungen implementiert, um Schwachstellen, Datenlecks und potenzielle Cyberangriffe zu verhindern und so widerstandsfähigere IT-Systeme für KMU zu gewährleisten.
 
 ## Prosec
 
 Im Innovationsprojekt ProSec wurde ein praxisorientierter Leitfaden zur Umsetzung der DSGVO entwickelt, der speziell auf die Bedürfnisse von kleinen und mittleren Unternehmen (KMU) zugeschnitten war. Das Projektziel war es, KMU trotz digitaler Transformation und der Einführung von Industrie 4.0-Technologien bei der erfolgreichen Erfüllung der DSGVO-Anforderungen zu unterstützen. Auf einer benutzerfreundlichen Web-Plattform wurden MUST-HAVES zu den Themen Datenschutz und Datensicherheit beschrieben. Die Projektergebnisse wurden kontinuierlich evaluiert, um praxisnahe Lösungen für KMU zu bieten und schwerwiegende Folgen wie hohe Geldstrafen und Datenpannen zu verhindern.
+
+## Physec
+
+Im PhySec-Projekt wurden innovative Ansätze entwickelt, um den wachsenden Bedrohungen durch Cyberangriffe für kleine und mittlere Unternehmen (KMU) zu begegnen. Der Schwerpunkt lag auf der Verbesserung der Cyber- und IT-Sicherheit durch den Einsatz moderner Technologien und die Anpassung an die digitale Landschaft. Eine umfassende webbasierte Plattform wurde entwickelt, um KMU praxisnahe Einblicke und wichtige Werkzeuge zum Schutz ihrer digitalen Ressourcen zu bieten. Im Laufe des Projekts wurden die Sicherheitsbedürfnisse kontinuierlich analysiert und praxisnahe Lösungen implementiert, um Schwachstellen, Datenlecks und potenzielle Cyberangriffe zu verhindern und so widerstandsfähigere IT-Systeme für KMU zu gewährleisten.
+
 
 ## Installation
 
